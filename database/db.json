@@ -1,0 +1,24 @@
+{
+  "users": {},
+  "chats": {},
+  "game": {},
+  "database": {},
+  "settings": {
+    "6282396328667@s.whatsapp.net": {
+      "status": 0,
+      "stock": 10,
+      "autobio": false,
+      "autoTyping": false,
+      "autoRecord": false,
+      "autoButton": true,
+      "public": false,
+      "setPrefix": "all",
+      "onlygrub": false,
+      "autoread": false,
+      "menuType": "buttonImage"
+    }
+  },
+  "setting": {},
+  "others": {},
+  "sticker": {}
+}
